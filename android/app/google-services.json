@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719273861",
+    "project_id": "flutter-teacher-62ee3",
+    "storage_bucket": "flutter-teacher-62ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719273861:android:369c42dee9582f03eaceec",
+        "android_client_info": {
+          "package_name": "com.example.teachers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjC51DI67aMvWnETVdZayTe9_nczDSdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
